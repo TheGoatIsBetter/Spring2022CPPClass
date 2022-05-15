@@ -1,0 +1,3 @@
+﻿  Exceptions.cpp
+C:\Users\thego\Desktop\Programming Stuff\UAT\Spring2022C++Class\Exceptions\Exceptions.cpp(123,21): warning C4101: 'yesNum': unreferenced local variable
+  Exceptions.vcxproj -> C:\Users\thego\Desktop\Programming Stuff\UAT\Spring2022C++Class\Exceptions\Debug\Exceptions.exe
