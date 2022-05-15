@@ -1,0 +1,10 @@
+﻿  C++IIFinal.cpp
+C:\Users\thego\Desktop\Programming Stuff\UAT\Spring2022C++Class\C++IIFinal\C++IIFinal.cpp(50,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Creature.cpp
+  LemonJuice.cpp
+  Menus.cpp
+C:\Users\thego\Desktop\Programming Stuff\UAT\Spring2022C++Class\C++IIFinal\Menus.cpp(49,13): warning C4101: 'result': unreferenced local variable
+  Player.cpp
+  Generating Code...
+C:\Users\thego\Desktop\Programming Stuff\UAT\Spring2022C++Class\C++IIFinal\Menus.cpp(59): warning C4715: 'Menus::Choice': not all control paths return a value
+  C++IIFinal.vcxproj -> C:\Users\thego\Desktop\Programming Stuff\UAT\Spring2022C++Class\C++IIFinal\Debug\C++IIFinal.exe
