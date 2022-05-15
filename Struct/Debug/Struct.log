@@ -1,0 +1,4 @@
+﻿  Struct.cpp
+C:\Users\thego\source\Repos\Struct\Struct.cpp(13,2): warning C4091: 'typedef ': ignored on left of 'Soppy' when no variable is declared
+C:\Users\thego\source\Repos\Struct\Struct.cpp(27,11): warning C4101: 'sop': unreferenced local variable
+  Struct.vcxproj -> C:\Users\thego\source\Repos\Struct\Debug\Struct.exe
